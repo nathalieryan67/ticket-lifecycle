@@ -61,6 +61,6 @@ In our example, the ticket priority is set to Emergency due to its potential det
 <img src="https://i.imgur.com/UZK90Nv.jpg" height="80%" width="80%"/>
 </p>
 <p>
-The assigned agent works the issue, making sure to communicate with the user at regular intervals. For our example, the agent identified the cause of the problem as being personal networking issues on the user’s end. The status was set to Resolved and an internal note was added to inform Nathalie Ryan that the customer was upset. The message between agents emphasized handling the issue with empathy as well as urgency during follow-up communication with the user. As the issue was resolved successfully, the ticket was closed. 
+The assigned agent works the issue, making sure to communicate with the user at regular intervals. For our example, the agent identified the cause of the problem as being personal networking issues on the user’s end. The status was set to Resolved and an internal note was added to inform all agents involved that the customer was upset. The message between agents emphasized handling the issue with empathy as well as urgency during follow-up communication with the user. As the issue was resolved successfully, the ticket was closed. 
 </p>
 <br />
